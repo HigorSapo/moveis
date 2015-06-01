@@ -4,6 +4,7 @@
 		<meta name="description" content="Móveis ecológicos">
 		<meta name="Keywords" content="moveis ecologicos">
 		<link rel="stylesheet" type="text/css" href="estilos.css">
+		<title>Móveis Ecológicos</title>
 	</head>
 	<body>
 		<h1>Móveis Ecológicos S. A.</h1>
